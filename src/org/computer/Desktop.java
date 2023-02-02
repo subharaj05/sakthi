@@ -8,5 +8,6 @@ public static void main(String[] args) {
 	Desktop g = new Desktop();
 	g.desktopSize();
 	g.computerModel();
+	g.computerName();
 }
 }
